@@ -1,2 +1,2 @@
 #!/bin/bash
-#echo effective username of the current user
+echo user
