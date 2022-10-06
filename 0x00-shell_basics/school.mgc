@@ -1,1 +1,3 @@
-\nO string SCHOOL Schooldl data\n! :mime School file -C -m school.mgc
+#!/bin/bash
+0 string SCHOOL School data
+!:mine school
